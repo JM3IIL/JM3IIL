@@ -1,6 +1,7 @@
 # JM3IIL
 Amateur Radio
 Osaka, JP
+1985/02/21-2000/05/11 ... 2024/04/03-
 
 - 🌱 I’m currently learning
   - [Electronic Circuit : 電子回路](https://github.com/JM3IIL/ElectronicCircuit/)
