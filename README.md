@@ -3,6 +3,8 @@ Amateur Radio
 Osaka, JP
 1985/02/21-2000/05/11 ... 2024/04/03-
 
+第3級アマチュア無線技士
+
 - 🌱 I’m currently learning
   - [Electronic Circuit : 電子回路](https://github.com/JM3IIL/ElectronicCircuit/)
   - [Radio Engineering : 無線工学](https://github.com/JM3IIL/RadioEngineering/)
