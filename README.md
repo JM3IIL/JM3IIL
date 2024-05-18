@@ -14,6 +14,8 @@ Amateur Third-Class Radio Operator
 - 📫 How to reach me:
   - https://twitter.com/JM3IIL
 
+- 🗝 GPG Public Key
+  - https://github.com/JM3IIL.gpg 
 
 <!--
 ### Hi there 👋
