@@ -16,7 +16,9 @@ Amateur Third-Class Radio Operator
 
 - 🗝 GPG Public Key
   - https://github.com/JM3IIL.gpg
-    - (GPGのAEAD問題のため、GitHubのGPG公開鍵をkeybaseで使用できない問題が発生している。)  
+    - (GPGのAEAD問題のため、GitHubのGPG公開鍵をkeybaseで使用できない問題が発生している。)
+   
+       https://ja.wikipedia.org/wiki/%E8%AA%8D%E8%A8%BC%E4%BB%98%E3%81%8D%E6%9A%97%E5%8F%B7
 
 <!--
 ### Hi there 👋
