@@ -20,6 +20,7 @@ Amateur Second-Class Radio Operator
    
        https://ja.wikipedia.org/wiki/%E8%AA%8D%E8%A8%BC%E4%BB%98%E3%81%8D%E6%9A%97%E5%8F%B7
        https://qiita.com/ohakutsu/items/dc55fcd16751b9d367e4
+       https://github.com/keybase/keybase-issues/issues/4025
 
 <!--
 ### Hi there 👋
