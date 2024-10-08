@@ -3,7 +3,11 @@ Amateur Radio
 Osaka, JP
 1985/02/21-2000/05/11 ... 2024/04/03-
 
-Amateur Second-Class Radio Operator
+- Amateur Second-Class Radio Operator (第二級アマチュア無線技士)
+- CISSP - Certified Information Systems Security Professional
+- CITP - Certified IT Professional
+- Chief Telecommunications Engineer (電気通信主任技術者 伝送交換)
+- Installation Technician (工事担任者 アナログ・デジタル総合種)
 
 - 🌱 I’m currently learning
   - [Electronic Circuit : 電子回路](https://github.com/JM3IIL/ElectronicCircuit/)
