@@ -3,11 +3,12 @@ Amateur Radio
 Osaka, JP
 1985/02/21-2000/05/11 ... 2024/04/03-
 
-- Amateur Second-Class Radio Operator (第二級アマチュア無線技士)
-- CISSP - Certified Information Systems Security Professional
-- CITP - Certified IT Professional
-- Chief Telecommunications Engineer (電気通信主任技術者 第一種伝送交換)
-- Installation Technician (工事担任者 アナログ・デジタル総合種)
+- Amateur Second-Class Radio Operator (第二級アマチュア無線技士) https://www.nichimu.or.jp/denpa/shikaku/ama/
+- CISSP - Certified Information Systems Security Professional https://www.isc2.org/certifications/cissp
+- RISS - Registered Information Security Specialist Examination (情報処理安全確保支援士) https://www.ipa.go.jp/jinzai/riss/
+- CITP - Certified IT Professional (認定情報技術者) https://www.ipsj.or.jp/citp.html
+- Chief Telecommunications Engineer (電気通信主任技術者 第一種伝送交換) https://www.dekyo.or.jp/shiken/chief/about
+- Installation Technician (工事担任者 アナログ・デジタル総合種) https://www.dekyo.or.jp/shiken/charge/about
 
 - 🌱 I’m currently learning
   - [Electronic Circuit : 電子回路](https://github.com/JM3IIL/ElectronicCircuit/)
