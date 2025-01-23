@@ -15,6 +15,7 @@ Osaka, JP
   - [Radio Engineering : 無線工学](https://github.com/JM3IIL/RadioEngineering/)
   - [Wiring Design : 配線設計](https://github.com/JM3IIL/WiringDesign/)
   - [Acoustic Engineering : 音響工学](https://github.com/JM3IIL/AcousticEngineering/)
+  - [Electrical Management : 電気管理](https://github.com/JM3IIL/ElectricalManagement/)
 
 - 📫 How to reach me:
   - https://twitter.com/JM3IIL
