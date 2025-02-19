@@ -9,7 +9,7 @@ Osaka, JP
 - CITP - Certified IT Professional (認定情報技術者) https://www.ipsj.or.jp/citp.html
 - Chief Telecommunications Engineer (電気通信主任技術者 第一種伝送交換) https://www.dekyo.or.jp/shiken/chief/about
 - Installation Technician (工事担任者 アナログ・デジタル総合種) https://www.dekyo.or.jp/shiken/charge/about
-  <!-- Class II Electrician (第二種電気工事士) https://www.shiken.or.jp/construction/about/ -->
+- Class II Electrician (第二種電気工事士) https://www.shiken.or.jp/construction/about/
 
 - 🌱 I’m currently learning
   - [Electronic Circuit : 電子回路](https://github.com/JM3IIL/ElectronicCircuit/)
