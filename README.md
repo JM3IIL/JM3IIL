@@ -7,6 +7,10 @@ Osaka, JP
 - CISSP - Certified Information Systems Security Professional https://www.isc2.org/certifications/cissp
 - RISS - Registered Information Security Specialist (情報処理安全確保支援士) https://www.ipa.go.jp/jinzai/riss/
 - CITP - Certified IT Professional (認定情報技術者) https://www.ipsj.or.jp/citp.html
+- Systems Auditor (システム監査技術者) https://www.ipa.go.jp/shiken/kubun/au.html
+- Project Manager (プロジェクトマネージャ) https://www.ipa.go.jp/shiken/kubun/pm.html
+- Online Systems Engineer (オンライン情報処理技術者) https://www.ipa.go.jp/shiken/kubun/gmcbt8000000gez3-att/old_ol.pdf
+- Database Specialist (データベーススペシャリスト) https://www.ipa.go.jp/shiken/kubun/db.html
 - Chief Telecommunications Engineer (電気通信主任技術者 第一種伝送交換) https://www.dekyo.or.jp/shiken/chief/about
 - Installation Technician (工事担任者 アナログ・デジタル総合種) https://www.dekyo.or.jp/shiken/charge/about
 - Class II Electrician (第二種電気工事士) https://www.shiken.or.jp/construction/about/
