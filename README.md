@@ -24,7 +24,7 @@ Osaka, JP
   - [Electrical Management : 電気管理](https://github.com/JM3IIL/ElectricalManagement/)
 
 - 📫 How to reach me:
-  - https://twitter.com/JM3IIL
+  - https://x.com/JM3IIL
 
 - 🗝 GPG Public Key
   - https://github.com/JM3IIL.gpg
