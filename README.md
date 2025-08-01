@@ -4,6 +4,7 @@ Osaka, JP
 1985/02/21-2000/05/11 ... 2024/04/03-
 
 - Amateur Second-Class Radio Operator (第二級アマチュア無線技士) https://www.nichimu.or.jp/denpa/shikaku/ama/
+<!-- 	Technical Radio Operator for On-The-Ground Services (第一級陸上無線技術士) https://www.nichimu.or.jp/denpa/shikaku/riku/ -->
 - CISSP - Certified Information Systems Security Professional https://www.isc2.org/certifications/cissp
 - RISS - Registered Information Security Specialist (情報処理安全確保支援士) https://www.ipa.go.jp/jinzai/riss/
 - CITP - Certified IT Professional (認定情報技術者) https://www.ipsj.or.jp/citp.html
