@@ -1,7 +1,7 @@
 # JM3IIL
 Amateur Radio
 Osaka, JP
-1985/02/21-2000/05/11 ... 2024/04/03-
+1985-02-21 - 2000-05-11 ... 2024-04-03 - Now
 
 <!-- Maritime First-Class Radio Operator (第一級海上無線通信士) https://www.nichimu.or.jp/denpa/shikaku/kaijyo/ -->
 <!-- First class Radio Electronic Certificate (第一級無線電子証明書) -->
