@@ -6,7 +6,7 @@ Osaka, JP
 <!-- Maritime First-Class Radio Operator (第一級海上無線通信士) https://www.nichimu.or.jp/denpa/shikaku/kaijyo/ -->
 <!-- First class Radio Electronic Certificate (第一級無線電子証明書) -->
 <!-- Maritime Third-Class Radio Operator (第三級海上無線通信士) -->
-<!-- (一般無線通信士証明書) --> 
+<!-- General Operator's Certificate (一般無線通信士証明書) --> 
 - Amateur Second-Class Radio Operator (第二級アマチュア無線技士) https://www.nichimu.or.jp/denpa/shikaku/ama/
 - First-Class Technical Radio Operator for On-The-Ground Services (第一級陸上無線技術士) https://www.nichimu.or.jp/denpa/shikaku/riku/
 - CISSP - Certified Information Systems Security Professional https://www.isc2.org/certifications/cissp
