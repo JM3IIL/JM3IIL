@@ -20,7 +20,7 @@ Osaka, JP
 - Installation Technician (工事担任者 アナログ・デジタル総合種) https://www.dekyo.or.jp/shiken/charge/about
 - Class II Electrician (第二種電気工事士) https://www.shiken.or.jp/construction/about/
 - Passed the Class I Electrician Examination (第一種電気工事士試験合格)
-- (認定電気工事従事者) https://www.meti.go.jp/information/license/c_text27.html
+- Certified Electrical Engineer (認定電気工事従事者) https://www.meti.go.jp/information/license/c_text27.html
 
 - 🌱 I’m currently learning
   - [Electronic Circuit : 電子回路](https://github.com/JM3IIL/ElectronicCircuit/)
