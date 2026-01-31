@@ -28,7 +28,7 @@ Osaka, JP
   - [Wiring Design : 配線設計](https://github.com/JM3IIL/WiringDesign/)
   - [Acoustic Engineering : 音響工学](https://github.com/JM3IIL/AcousticEngineering/)
   - [Electrical Management : 電気管理](https://github.com/JM3IIL/ElectricalManagement/)
-  - [Micro Controller : マイクロコントローラ](https://github.com/JM3IIL/MicroController/))
+  - [Micro Controller : マイクロコントローラ](https://github.com/JM3IIL/MicroController/)
 
 - 📫 How to reach me:
   - https://x.com/JM3IIL
