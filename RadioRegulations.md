@@ -22,6 +22,4 @@ https://www.itu.int/pub/R-REG-RR-2024
 - Volume 4 – ITU-R Recommendations incorporated by reference
 
 
-CHAPTER VIII – Aeronautical services
-CHAPTER IX – Maritime services
-CHAPTER X – Provisions for entry into force of the Radio Regulations
+
