@@ -26,7 +26,7 @@ https://www.itu.int/pub/R-REG-RR-2024
   - 第1章 – 用語及び技術特性
     - 第1節 – 一般用語 (General terms) （1.1-1.15条）
     - 第2節 – 周波数の管理に関する特別用語 (Specific terms related to frequency management) （1.16-1.18条）
-第3節 – 無線通信業務（英語版） (Radiocommunication services) （1.19-1.60条）
+    - 第3節 – 無線通信業務（英語版） (Radiocommunication services) （1.19-1.60条）
 第4節 – 無線局及び無線方式 (Radio stations and systems) （1.61-1.115条）
 第5節 – 運用用語 (Operational terms) （1.116-1.136条）
 第6節 – 放射及び無線装置の特性 (Characteristics of Emissions and Radio Equipment) （1.137-1.165条）
