@@ -30,7 +30,7 @@ https://www.itu.int/pub/R-REG-RR-2024
     - 第4節 – 無線局及び無線方式 (Radio stations and systems) （1.61-1.115条）
     - 第5節 – 運用用語 (Operational terms) （1.116-1.136条）
     - 第6節 – 放射及び無線装置の特性 (Characteristics of Emissions and Radio Equipment) （1.137-1.165条）
-第7節 – 周波数の共用 (Frequency Sharing) （1.166-1.176条）
+    - 第7節 – 周波数の共用 (Frequency Sharing) （1.166-1.176条）
 第8節 – 宇宙に関連する技術用語 (Technical terms relating to space） （1.177-1.191条）
   - 第2章 – 周波数
   - 第3章 – 周波数割当てプラン及びプラン変更の調整、通告及び登録
