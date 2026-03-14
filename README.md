@@ -8,7 +8,7 @@ Osaka, JP
 - First-Class Technical Radio Operator for On-The-Ground Services (第一級陸上無線技術士) https://www.nichimu.or.jp/denpa/shikaku/riku/
 - Maritime First-Class Radio Operator (第一級海上無線通信士) https://www.nichimu.or.jp/denpa/shikaku/kaijyo/
 <!-- - Aeronautical Radio Operator (航空無線通信士) https://www.nichimu.or.jp/denpa/shikaku/koku/index.html -->
-<!-- - for in the ITU Radio Regulations (37.13) -->
+<!-- - Radiotelephone Operator's General Certificate (aeronautical) for in the ITU Radio Regulations (37.13) (航空移動業務及び航空移動衛星業務に関する無線電話通信士一般証明書) -->
 - First class Radio Electronic Certificate for in the ITU Radio Regulations (47.20) (第一級無線電子証明書)
 - General Operator's Certificate as provided for in the ITU Radio Regulations (47.22) (一般無線通信士証明書)
 - CISSP - Certified Information Systems Security Professional https://www.isc2.org/certifications/cissp
