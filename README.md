@@ -11,7 +11,7 @@ Osaka, JP
 
 - First class Radio Electronic Certificate for in the ITU Radio Regulations (47.20) (第一級無線電子証明書)
 - General Operator's Certificate as provided for in the ITU Radio Regulations (47.22) (一般無線通信士証明書)
-- Radiotelephone Operator's General Certificate (aeronautical) for in the ITU Radio Regulations (37.13) (航空移動業務及び航空移動衛星業務に関する無線電話通信士一般証明書)
+- Radiotelephone Operator's General Certificate (Aeronautical) for in the ITU Radio Regulations (37.13) (航空移動業務及び航空移動衛星業務に関する無線電話通信士一般証明書)
 - CISSP - Certified Information Systems Security Professional https://www.isc2.org/certifications/cissp
 - RISS - Registered Information Security Specialist (情報処理安全確保支援士) https://www.ipa.go.jp/jinzai/riss/
 - CITP - Certified IT Professional (認定情報技術者) https://www.ipsj.or.jp/citp.html
