@@ -21,6 +21,7 @@ Osaka, JP
 - Database Specialist (データベーススペシャリスト) https://www.ipa.go.jp/shiken/kubun/db.html
 - Chief Telecommunications Engineer (電気通信主任技術者 第一種伝送交換) https://www.dekyo.or.jp/shiken/chief/about
 - Installation Technician (工事担任者 アナログ・デジタル総合種) https://www.dekyo.or.jp/shiken/charge/about
+<!--  - (第三種電気主任技術者)-->
 - Class II Electrician (第二種電気工事士) https://www.shiken.or.jp/construction/about/
 - Passed the Class I Electrician Examination (第一種電気工事士試験合格)
 - Certified Electrical Engineer (認定電気工事従事者) https://www.meti.go.jp/information/license/c_text27.html
