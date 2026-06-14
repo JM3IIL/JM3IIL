@@ -2,7 +2,7 @@
 
 - 主鍵の扱い
 - SSHとFIDO2
-- Keybaseとed25519
+- [Keybase](https://keybase.io/)とed25519
 - [Yubikey](https://www.yubico.com/)にはGPG鍵は1つ
 - 主鍵で署名する意味
 - [GPGforWindows](https://www.gpg4win.org/)の弱み
