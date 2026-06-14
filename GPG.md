@@ -5,7 +5,7 @@
 - Keybaseとed25519
 - YubikeyにはGPG鍵は1つ
 - 主鍵で署名する意味
-- GPGforWindowsの弱み
+- [GPGforWindows](https://www.gpg4win.org/)の弱み
 
 ## 参考リンク
 https://qiita.com/kino-ma/items/c5679997293cbbd34b34
